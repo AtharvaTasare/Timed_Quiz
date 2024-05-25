@@ -12,4 +12,4 @@
 - **Responsive Design**: Optimized for various devices including desktops, tablets, and mobile phones.
 
 **The web pages can be accessed here**
-- 
+- https://atharvatasare.github.io/Timed_Quiz/
